@@ -1,4 +1,6 @@
 .card {
     padding: 1em;
-    border: 1px solid red;
+    background-color: blueviolet;
+    border: 10px solid red;
+    color: blueviolet;
 }
